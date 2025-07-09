@@ -3,13 +3,11 @@
 
 This is a cutting-edge iOS app that generates **custom AI avatars** from user photos — powered by **CoreML**, **Stable Diffusion**, and Swift. Using a fine-tuned diffusion model running directly on-device, it ensures privacy and blazing-fast results. Perfect for profile pictures, social avatars, and more!
 
----
 
 ## 🌟 Project Description
 
 The Swift Generative AI Avatar App empowers users to generate artistic and unique avatars using a custom-trained diffusion model. Built for privacy and personalization, it works entirely offline using CoreML. Whether you're a developer exploring on-device generative AI, or an iOS user wanting awesome avatars — this app delivers.
 
----
 
 ## 🚀 How to Run
 
@@ -43,7 +41,6 @@ open AIAvatarGenerator.xcodeproj
 
 5. Build and run the app on a real device (not simulator).
 
----
 
 ## ✨ Features
 
@@ -54,7 +51,6 @@ open AIAvatarGenerator.xcodeproj
 - 🧠 Optimized for Apple Neural Engine (ANE)
 - 🖼️ Output preview + save to photo library
 
----
 
 ## 🛠 Tech Stack
 
@@ -65,7 +61,6 @@ open AIAvatarGenerator.xcodeproj
 | UIKit / SwiftUI | User Interface                         |
 | Stable Diffusion| Image generation backend               |
 
----
 
 ## 🧩 Future Ideas
 
@@ -74,7 +69,6 @@ open AIAvatarGenerator.xcodeproj
 - 🌐 Optionally integrate OpenAI DALL·E via API
 - 🧑‍🎨 Fine-tune avatars using multiple selfies
 
----
 
 ## 💬 Why This Project?
 
