@@ -1,5 +1,5 @@
 
-# 🧠 Swift Generative AI Avatar App (Swifty)
+# 🧠 Swift Generative AI Avatar App (Swift)
 
 This is a cutting-edge iOS app that generates **custom AI avatars** from user photos — powered by **CoreML**, **Stable Diffusion**, and Swift. Using a fine-tuned diffusion model running directly on-device, it ensures privacy and blazing-fast results. Perfect for profile pictures, social avatars, and more!
 
